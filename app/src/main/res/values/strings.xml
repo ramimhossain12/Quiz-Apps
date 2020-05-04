@@ -1,0 +1,105 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Java Quiz</string>
+
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">Enter your name to take quiz</string>
+
+    <!-- Question 1 [CHAR LIMIT=NONE] -->
+    <!-- Correct: B -->
+    <string name="txt_1">1. Which of these languages does a computer understand without the need for a compiler or an interpreter? \n</string>
+
+    <string name="rad_1a">Java</string>
+    <string name="rad_1b">Binary</string>
+    <string name="rad_1c">Visual Basic</string>
+    <string name="rad_1d">English</string>
+
+    <!-- Question 2 [CHAR LIMIT=NONE] -->
+    <!-- Correct Ans: Algorithm -->
+    <string name="txt_2">is a step by step method for solving a specific problem.</string>
+
+    <!-- Question 3 [CHAR LIMIT=NONE] -->
+    <!-- Correct: A -->
+    <string name="txt_3">3. The program written by a programmer is best referred to as ......... </string>
+    <string name="rad_3a">Source Code</string>
+    <string name="rad_3b">Programmer\'s Code</string>
+    <string name="rad_3c">Object Code</string>
+    <string name="rad_3d">Legacy Code</string>
+
+    <!-- Question 4 [CHAR LIMIT=NONE] -->
+    <!-- Correct: C -->
+    <string name="txt_4">4. The following are programming languages except one</string>
+    <string name="rad_4a">Python</string>
+    <string name="rad_4b">Assembly</string>
+    <string name="rad_4c">Compiler</string>
+    <string name="rad_4d">Ruby</string>
+
+    <!-- Question 5 [CHAR LIMIT=NONE] -->
+    <!-- Correct: C -->
+    <string name="txt_5">5. Which of these is the protocol for the web?</string>
+    <string name="rad_5a">FTP</string>
+    <string name="rad_5b">IP</string>
+    <string name="rad_5c">HTTP</string>
+    <string name="rad_5d">SSL</string>
+
+    <!-- Question 6 [CHAR LIMIT=NONE] -->
+    <!-- Correct: B, C, E -->
+    <string name="txt_6">6. Select all the web browsers</string>
+    <string name="chk_6a">Android</string>
+    <string name="chk_6b">Chrome</string>
+    <string name="chk_6c">Safari</string>
+    <string name="chk_6d">HTML</string>
+    <string name="chk_6e">Firefox</string>
+
+    <!-- Question 7 [CHAR LIMIT=NONE] -->
+    <!-- Correct: D -->
+    <string name="txt_7">7. All these are operating systems except .......</string>
+    <string name="rad_7a">Android</string>
+    <string name="rad_7b">Windows</string>
+    <string name="rad_7c">Linux</string>
+    <string name="rad_7d">Chrome</string>
+
+    <!-- Question 8 [CHAR LIMIT=NONE] -->
+    <!-- Correct: B -->
+    <string name="txt_8">8. Pick out the odd one</string>
+    <string name="rad_8a">Scanner</string>
+    <string name="rad_8b">Monitor</string>
+    <string name="rad_8c">Keyboard</string>
+    <string name="rad_8d">Mouse</string>
+
+    <!-- Question 9 [CHAR LIMIT=NONE] -->
+    Correct Ans: 8
+    <string name="txt_9">How many bits are there in a byte?</string>
+
+    <!-- Question 10 [CHAR LIMIT=NONE] -->
+    <!-- Correct: D -->
+    <string name="txt_10">10. The product of a compiler/interpreter is best referred to as .........</string>
+    <string name="rad_10a">Function</string>
+    <string name="rad_10b">Data Code</string>
+    <string name="rad_10c">Source Code</string>
+    <string name="rad_10d">Object Code</string>
+
+
+    <string name="txt_11">11. HashSet internally uses? .........</string>
+    <string name="rad_11a">HashMap</string>
+    <string name="rad_11b">Data Code</string>
+    <string name="rad_11c">TreeMap</string>
+    <string name="rad_11d">LinkedHashMap</string>
+
+
+    <!-- Submit Quiz Button [CHAR LIMIT=20] -->
+    <string name="submit_quiz_btn">Submit Quiz</string>
+
+    <!-- Reset Quiz Button [CHAR LIMIT=20] -->
+    <string name="reset_quiz_btn">Reset Quiz</string>
+
+    <!-- Empty name field message [CHAR LIMIT=50] -->
+    <string name="empty_name_field_msg">Please enter your name!</string>
+
+    <!-- Toast message with total score [CHAR LIMIT=100] -->
+    <string name="user_score_msg">Hi <xliff:g example="Ikemefuna" id="name">%s</xliff:g>, you scored <xliff:g example="7" id="total_score">%d</xliff:g></string>
+
+
+    <string name="about_o">Md.Ramim Hossain\nEmail:ramimhossain6242@gmail.com</string>
+    <string name="about_t">Studying in Computer Science and Engineering at Daffodil International University. Passionate about android app development. Love to build android application.</string>
+</resources>
